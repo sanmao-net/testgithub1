@@ -8,7 +8,7 @@ namespace _826MvcApplication_.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ActionResult 
         {
             ViewBag.Message = "Welcome to ASP.NET MVC!haha";
 
